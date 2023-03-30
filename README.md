@@ -1,22 +1,21 @@
-## 🖖 About me:
+## 🖖 Hello There
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```javascript
+ class FullstackDeveloper {
+  constructor() {
+    this.name = "Vitor Poltronieri de Mello";
+    this.role = "Fullstack Developer in Tranning";
+    this.language_spoken = ["pt_BR"];
+  }
 
+  sayHi() {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+}
 
-class FullstackDeveloper:
-
-    def __init__(self):
-        self.name = "Vitor Poltronieri de Mello"
-        self.role = "Fullstack Developer in Training"
-        self.language_spoken = ["pt_BR"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = FullstackDeveloper()
-me.say_hi()
+let me = new FullstackDeveloper();
+me.sayHi();
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitorpolm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorpolm) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/OPoderosoGeek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vitorpolm) 
